@@ -1,0 +1,19 @@
+<Company>
+    <Director>
+        <Name>Nguyễn Văn A</Name>
+        <Position>Giám đốc</Position>
+    </Director>
+    <Address>
+        <Street>123 Đường ABC</Street>
+        <City>Hà Nội</City>
+        <Country>Việt Nam</Country>
+    </Address>
+    <Contact>
+        <Phone>0123 456 789</Phone>
+        <Email>contact@company.com</Email>
+    </Contact>
+    <TaxInfo>
+        <TaxCode>0123456789</TaxCode>
+        <TaxAuthority>Chi cục Thuế Hà Nội</TaxAuthority>
+    </TaxInfo>
+</Company>

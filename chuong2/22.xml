@@ -1,0 +1,30 @@
+<Students>
+    <Student>
+        <StudentID>SV001</StudentID>
+        <Name>Nguyễn Văn A</Name>
+        <BirthYear>2000</BirthYear>
+        <Class>10A1</Class>
+        <Gender>Nam</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV002</StudentID>
+        <Name>Trần Thị B</Name>
+        <BirthYear>2001</BirthYear>
+        <Class>10A2</Class>
+        <Gender>Nữ</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV003</StudentID>
+        <Name>Phạm Văn C</Name>
+        <BirthYear>2000</BirthYear>
+        <Class>10B1</Class>
+        <Gender>Nam</Gender>
+    </Student>
+    <Student>
+        <StudentID>SV004</StudentID>
+        <Name>Lê Thị D</Name>
+        <BirthYear>2002</BirthYear>
+        <Class>10B2</Class>
+        <Gender>Nữ</Gender>
+    </Student>
+</Students>
