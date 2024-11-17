@@ -1,10 +1,10 @@
 import numpy as np
 
 
-with open('C:/Users/Moon/Desktop/btap/chuong3moi/heights.txt', 'r') as file:
-    heights = [float(line.strip()) for line in file if line.strip()]
+with open('C:/Users/Moon/Desktop/btap/chuong3/heights.txt', 'r') as file:
+    heights = [float(line.replace(',', '').strip()) for line in file if line.strip()]
 
-with open('C:/Users/Moon/Desktop/btap/chuong3moi/positions.txt', 'r') as file:
+with open('C:/Users/Moon/Desktop/btap/chuong3/positions.txt', 'r') as file:
     positions = [line.strip() for line in file if line.strip()]
 
 
